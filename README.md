@@ -10,7 +10,7 @@ V 0.2.1.4 Targets move
 
 V 0.2.1.6 targets mouse senetiv
 
-V 0.2.5.2 enemy dpced after miss target
+V 0.2.5.2 enemy diced after miss target
 
 Moin release V.3.0.12 many new function (ship atributes, level)
 
