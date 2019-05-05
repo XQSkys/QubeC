@@ -10,8 +10,6 @@ V 0.2.1.4 Targets move
 
 V 0.2.1.6 targets mouse senetiv
 
-V 0.2.5.2 enemy diced after miss target
-
 V V.0.3.1.5 skills, eplosions
 
 V 0.3.2.2 QubeC name change tp Xenotaum
