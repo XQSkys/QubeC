@@ -10,5 +10,5 @@ V 0.2.1.4 Targets move
 
 V 0.2.1.6 targets mouse senetiv
 
-Moin release V.3.0.1 many new finktins (ship atributes level)
+Moin release V.3.0.1 many new function (ship atributes, level)
 
