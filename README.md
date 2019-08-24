@@ -1,16 +1,16 @@
 # QubeC
 A Space Shoter
 
-You just have to point and click the red and blue squares with the left or right mouse butten.
-if you get confused with left and right it will be a hard game.
+Inspired from Psalm 111,2:
+DetaMouseQubeC_V_0_2_2_6_Alfa :
 
-V 0.2.0.1 Targets not move
+Left Mouse Boutten to Hit Red Squares
+Rigth Mouse Boutton to Hit Blue Squares
+Aim: get 100 score, hit Hundred Time To Win
+Wrong Click reduse score by 1
 
-V 0.2.1.4 Targets move 
+DetaMouseQubeC/DetaMouseQubeC_V_0_2_1_5_color
 
-V 0.2.1.6 targets mouse senetiv
-
-V V.0.3.1.5 skills, eplosions
-
-V 0.3.2.2 QubeC name change tp Xenotaum
-
+At this time the game dont actuell have an aim.
+Just have fun by the interaktions betwen mouse an the square.
+Mouse clicks restart the square.
