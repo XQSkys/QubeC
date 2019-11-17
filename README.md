@@ -1,6 +1,6 @@
-# QubeC
-A Space Shoter
-
+# QubeC Alfa/Color/Disco
+A Space Art Shoter
+# If you dont like heavy flashing Animations Please ingnore this  forks of QubeC !
 Inspired from Psalm 111,2:
 DetaMouseQubeC_V_0_2_2_6_Alfa :
 
